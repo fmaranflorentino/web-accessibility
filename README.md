@@ -11,17 +11,21 @@ With this techniques, all users will be able to use and interact with your app.
 
 
 
- - [Semantic HTML](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html.md)
 
- - [Keyboard Navigation](https://google.com)
+ 1. [Semantic HTML](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/semantic-html.md)
+    1. [Menu](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/menu.md)
+    2. [Link](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/link.md)
+    3. [Tabs](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/tabs.md)
 
- - [Accessibility Gaps with Aria](https://google.com)
+ 2. [Keyboard Navigation](https://google.com)
+
+ 3. [Accessibility Gaps with Aria](https://google.com)
   <!-- - [Accesible menu component]() -->
 
- - [Data Tables - Correctly Approach](https://google.com)
+ 4. [Data Tables - Correctly Approach](https://google.com)
 
- - [Text Alternatives for Media Content](https://google.com)
+ 5. [Text Alternatives for Media Content](https://google.com)
 
- - [Accessible Colors](https://google.com)
+ 6. [Accessible Colors](https://google.com)
 
- - [Accessible Fonts](https://google.com)
+ 7. [Accessible Fonts](https://google.com)
