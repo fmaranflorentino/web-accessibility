@@ -197,6 +197,57 @@ Simple tabs example
 </div>
 ```
 
+<b>GOOD</b>
+
+```html
+<div class="tabs" role="tablist">
+  <div class="tabs-header">
+    <div
+      class="item-title"
+      id="skills-tab"
+      role="tab"
+      aria-selected="true"
+      aria-controls="skills-tab"
+    >
+      Skilss
+    </div>
+    <div
+      class="item-title"
+      id="experience-tab"
+      role="tab"
+      aria-selected="true"
+      aria-controls="experience-tab"
+    >
+      Experience
+    </div>
+  </div>
+
+  <div class="tabs-content">
+    <div
+      class="tabs-item-content"
+      id="skills-tab-content"
+      tabindex="0"
+      role="tabpanel"
+      id="skills-tab"
+      aria-labelledby="skills"
+    >
+      skills content
+    </div>
+
+    <div
+      class="tabs-item-content"
+      id="experience-tab-content"
+      tabindex="0"
+      role="tabpanel"
+      id="experience-tab"
+      aria-labelledby="experience"
+    >
+      Experience content
+    </div>
+  </div>
+</div>
+```
+
 <b>Great</b>
 
 ```html
