@@ -1,3 +1,5 @@
+# Tabs
+
 Simple tabs example
 
 <b>BAD</b>

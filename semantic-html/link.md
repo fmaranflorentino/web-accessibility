@@ -1,3 +1,5 @@
+# Link
+
 Simple link example
 
 <b>BAD</b>

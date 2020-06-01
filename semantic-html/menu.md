@@ -1,3 +1,5 @@
+# Menu
+
 Simple menu example
 
 <b>BAD</b>
