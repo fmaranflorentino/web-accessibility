@@ -19,6 +19,7 @@ With this techniques, all users will be able to use and interact with your app.
     6. [Accordion](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/accordion.md)
     7. [Dialog](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/dialog.md)
     8. [Checkbox](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/checkbox.md)
+    9. [Autocomplete/combobox](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/autocomplete-combobox.md)
 
  2. [Keyboard Navigation](https://google.com)
 
