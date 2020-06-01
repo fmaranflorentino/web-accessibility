@@ -18,7 +18,7 @@ A breadcrumb simple example
 <b>GOOD</b>
 
 ```html
-<div role="menubar" aria-label="Site breadcrumb" class="breadcrumb">
+<div role="menubar" aria-label="Breadcrumb" class="breadcrumb">
   <div role="menuitem" aria-label="Services" class="breadcrumb-item">
     Services
   </div>
