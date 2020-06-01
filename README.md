@@ -10,8 +10,6 @@ With this techniques, all users will be able to use and interact with your app.
  In this guide we will have the following topics:
 
 
-
-
  1. [Semantic HTML](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/semantic-html.md)
     1. [Menu](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/menu.md)
     2. [Link](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/link.md)
