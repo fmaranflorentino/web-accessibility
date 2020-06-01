@@ -62,12 +62,11 @@ Simple structure example
 <footer>{...}</footer>
 ```
 
-<hr>
+Want to see more examples, follow the links bellow
 
-
-
-<hr>
-
-
-
-
+1. [Menu](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/menu.md)
+2. [Link](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/link.md)
+3. [Tabs](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/tabs.md)
+4. [Breadcrumb](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/breadcrumb.md)
+5. [Buttons](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/buttons.md)
+6. [Accordion](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/accordion.md)
