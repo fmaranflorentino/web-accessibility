@@ -1,6 +1,6 @@
 # Checkbox
 
-a simple checkbox example
+A simple checkbox example
 
 <b>BAD</b>
 
