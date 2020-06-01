@@ -11,7 +11,7 @@ With this techniques, all users will be able to use and interact with your app.
 
 
 
- - [Semantic HTML](https://google.com)
+ - [Semantic HTML](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html.md)
 
  - [Keyboard Navigation](https://google.com)
 
