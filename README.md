@@ -16,6 +16,7 @@ With this techniques, all users will be able to use and interact with your app.
     1. [Menu](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/menu.md)
     2. [Link](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/link.md)
     3. [Tabs](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/tabs.md)
+    4. [Breadcrumb](https://github.com/fmaranflorentino/web-accessibility/blob/master/semantic-html/breadcrumb.md)
 
  2. [Keyboard Navigation](https://google.com)
 
