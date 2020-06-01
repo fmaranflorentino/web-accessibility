@@ -40,5 +40,7 @@ A example using a `<a></a>`
 <b>GREAT</b>
 
 ```html
-<button tabindex="0" aria-pressed="false" id="loginAction">Login</button>
+<button type="submit" tabindex="0" aria-pressed="false" id="loginAction">
+  Login
+</button>
 ```
