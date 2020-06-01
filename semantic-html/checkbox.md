@@ -10,23 +10,23 @@ A simple checkbox example
 </h3>
 
 <div class="checkbox_content">
-  <ul>
-    <li>
+  <div>
+    <div>
       <div class="checkbox">
         Male
       </div>
-    </li>
-    <li>
+    </div>
+    <div>
       <div class="checkbox">
         Female
       </div>
-    </li>
-    <li>
+    </div>
+    <div>
       <div class="checkbox">
         Others
       </div>
-    </li>
-  </ul>
+    </div>
+  </div>
 </div>
 ```
 
