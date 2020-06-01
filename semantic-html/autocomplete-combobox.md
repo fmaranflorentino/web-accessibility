@@ -1,6 +1,6 @@
 # Autocomplete / Combobox
 
-A simple example of autocomplete / combox
+A simple example of autocomplete / combobox
 
 <b>BAD</b>
 
